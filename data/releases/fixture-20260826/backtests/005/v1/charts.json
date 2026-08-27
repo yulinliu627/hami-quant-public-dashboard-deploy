@@ -1,0 +1,7 @@
+{
+  "metadata": { "schema_version": 1, "artifact_type": "backtest_charts", "instrument": "SNDK", "venue": "us_market", "experiment_id": "005", "strategy_version": "v1", "release_id": "fixture-20260826", "data_available_at_utc": "2026-08-25T20:00:00Z", "generated_at_utc": "2026-08-26T11:59:00Z" },
+  "payload": {
+    "pnl_distribution": { "measure": "pnl", "bins": [{ "start": -0.04, "end": -0.01, "count": 12 }, { "start": -0.01, "end": 0.02, "count": 34 }, { "start": 0.02, "end": 0.05, "count": 18 }] },
+    "walk_forward": [{ "period": "train", "total_return": 0.21, "total_pnl": 0.21 }, { "period": "validation", "total_return": 0.08, "total_pnl": 0.08 }, { "period": "test", "total_return": -0.011, "total_pnl": -0.011 }]
+  }
+}

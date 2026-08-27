@@ -1,0 +1,4 @@
+{
+  "metadata": { "schema_version": 1, "artifact_type": "market_monitor", "instrument": null, "venue": null, "experiment_id": null, "strategy_version": null, "release_id": "fixture-20260826", "data_available_at_utc": "2026-08-25T20:00:00Z", "generated_at_utc": "2026-08-26T11:59:00Z" },
+  "payload": { "display_timezone": "Asia/Taipei", "series": [{ "instrument": "SNDKUSDT", "venue": "binance_usds_m_perpetual", "interval": "5m", "data_available_at_utc": "2026-08-25T20:00:00Z", "records": [{ "timestamp": "2026-08-25T19:50:00Z", "open": 100, "high": 101, "low": 99, "close": 100, "volume": 10 }, { "timestamp": "2026-08-25T20:00:00Z", "open": 100, "high": 102, "low": 100, "close": 101, "volume": 12 }] }] }
+}

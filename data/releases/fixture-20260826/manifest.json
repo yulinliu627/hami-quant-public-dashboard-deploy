@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "release_id": "fixture-20260826",
+  "data_available_at_utc": "2026-08-25T20:00:00Z",
+  "generated_at_utc": "2026-08-26T11:59:00Z",
+  "display_timezone": "Asia/Taipei",
+  "git_commit": "fixture",
+  "artifacts": [
+    { "path": "market_monitor.json", "schema_version": 1, "artifact_type": "market_monitor", "instrument": null, "venue": null, "experiment_id": null, "strategy_version": null, "release_id": "fixture-20260826", "data_available_at_utc": "2026-08-25T20:00:00Z", "generated_at_utc": "2026-08-26T11:59:00Z" },
+    { "path": "forward_test.json", "schema_version": 1, "artifact_type": "forward_test", "instrument": null, "venue": null, "experiment_id": null, "strategy_version": null, "release_id": "fixture-20260826", "data_available_at_utc": "2026-08-25T20:00:00Z", "generated_at_utc": "2026-08-26T11:59:00Z" },
+    { "path": "backtests/005/v1/summary.json", "schema_version": 1, "artifact_type": "backtest_summary", "instrument": "SNDK", "venue": "us_market", "experiment_id": "005", "strategy_version": "v1", "release_id": "fixture-20260826", "data_available_at_utc": "2026-08-25T20:00:00Z", "generated_at_utc": "2026-08-26T11:59:00Z" },
+    { "path": "backtests/005/v1/trades.json", "schema_version": 1, "artifact_type": "backtest_trades", "instrument": "SNDK", "venue": "us_market", "experiment_id": "005", "strategy_version": "v1", "release_id": "fixture-20260826", "data_available_at_utc": "2026-08-25T20:00:00Z", "generated_at_utc": "2026-08-26T11:59:00Z" },
+    { "path": "backtests/005/v1/equity.json", "schema_version": 1, "artifact_type": "backtest_equity", "instrument": "SNDK", "venue": "us_market", "experiment_id": "005", "strategy_version": "v1", "release_id": "fixture-20260826", "data_available_at_utc": "2026-08-25T20:00:00Z", "generated_at_utc": "2026-08-26T11:59:00Z" },
+    { "path": "backtests/005/v1/charts.json", "schema_version": 1, "artifact_type": "backtest_charts", "instrument": "SNDK", "venue": "us_market", "experiment_id": "005", "strategy_version": "v1", "release_id": "fixture-20260826", "data_available_at_utc": "2026-08-25T20:00:00Z", "generated_at_utc": "2026-08-26T11:59:00Z" }
+  ]
+}

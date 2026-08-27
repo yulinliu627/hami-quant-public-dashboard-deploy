@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "schema_version": 1,
+    "artifact_type": "backtest_summary",
+    "instrument": "SNDK",
+    "venue": "us_market",
+    "experiment_id": "005",
+    "strategy_version": "v2",
+    "release_id": "candidate-20260827-no-research",
+    "data_available_at_utc": "2026-08-21T19:55:00+00:00",
+    "generated_at_utc": "2026-08-27T10:14:19.672347+00:00"
+  },
+  "payload": {
+    "experiment": {
+      "experiment_id": "005",
+      "name": "Premarket Gap Capture",
+      "description": "Enter at SNDK's first premarket candle, direction = sign(binance_overnight_return), exit at the first regular-session candle's open.",
+      "hypothesis": "Binance's overnight return (previous close -> this day's premarket start) correlates very strongly with SNDK's premarket gap (r=0.984, n=92) and open gap (r=0.812, n=92), both sufficient_sample=True per Daily Cross-Market Research v0.1, decaying to near-zero within an hour after the open. Entering at SNDK's first premarket candle based on the overnight return and exiting at the regular-session open tests the one horizon nothing else in this project has traded.",
+      "status": "backtested",
+      "parent_experiment": "003",
+      "conclusion": "",
+      "notes": ""
+    },
+    "summary": {
+      "max_drawdown_percent": -0.06216277548314322,
+      "sharpe_ratio": 0.12901298203308154,
+      "average_win": 172.60736387162743,
+      "train_period": {
+        "start": "2026-04-07T08:00:00+00:00",
+        "end": "2026-06-28T05:33:00+00:00",
+        "metrics": {
+          "total_trades": 53,
+          "winning_trades": 34,
+          "losing_trades": 19,
+          "win_rate": 0.6415094339622641,
+          "average_win": 145.40105549066197,
+          "average_loss": -130.21490012092104,
+          "profit_factor": 1.9981688901604453,
+          "total_pnl": 2469.5527843850077,
+          "total_return": 0.24695527843850076,
+          "final_equity": 12469.552784385007,
+          "average_mfe": 0.026562797856549955,
+          "average_mae": 0.022329702472081343,
+          "max_drawdown": -583.6095198549992,
+          "max_drawdown_percent": -0.05721923627370318,
+          "sharpe_ratio": 0.19870596194797194,
+          "sortino_ratio": 0.3135612280687467,
+          "max_consecutive_wins": 8,
+          "max_consecutive_losses": 5
+        }
+      },
+      "win_rate": 0.6043956043956044,
+      "total_trades": 91,
+      "total_return": 0.33765118639791153,
+      "start_date": "2026-04-07T08:00:00+00:00",
+      "test_period": {
+        "start": "2026-07-25T12:44:00+00:00",
+        "end": "2026-08-21T19:55:00+00:00",
+        "metrics": {
+          "total_trades": 20,
+          "winning_trades": 9,
+          "losing_trades": 11,
+          "win_rate": 0.45,
+          "average_win": 225.95666802777765,
+          "average_loss": -194.67660263435434,
+          "profit_factor": 0.9496448724478008,
+          "total_pnl": -107.83261672789851,
+          "total_return": -0.01078326167278985,
+          "final_equity": 9892.1673832721,
+          "average_mfe": 0.03064449613611634,
+          "average_mae": 0.02983302186727359,
+          "max_drawdown": -671.4510344324972,
+          "max_drawdown_percent": -0.06708663349917185,
+          "sharpe_ratio": -0.03581903783490839,
+          "sortino_ratio": -0.05067203923053451,
+          "max_consecutive_wins": 2,
+          "max_consecutive_losses": 2
+        }
+      },
+      "end_date": "2026-08-21T19:55:00+00:00",
+      "source": "us_market",
+      "average_loss": -169.91369858223322,
+      "validation_period": {
+        "start": "2026-06-28T05:33:00+00:00",
+        "end": "2026-07-25T12:44:00+00:00",
+        "metrics": {
+          "total_trades": 18,
+          "winning_trades": 12,
+          "losing_trades": 6,
+          "win_rate": 0.6666666666666666,
+          "average_win": 209.6799261672504,
+          "average_loss": -250.2279029474997,
+          "profit_factor": 1.6759116285384315,
+          "total_pnl": 1014.7916963220065,
+          "total_return": 0.10147916963220065,
+          "final_equity": 11014.791696322007,
+          "average_mfe": 0.03157028046340797,
+          "average_mae": 0.03341607649073361,
+          "max_drawdown": -692.441610984999,
+          "max_drawdown_percent": -0.061814588582542504,
+          "sharpe_ratio": 0.18881393980702488,
+          "sortino_ratio": 0.2790906073434601,
+          "max_consecutive_wins": 4,
+          "max_consecutive_losses": 2
+        }
+      },
+      "interval": "5m",
+      "symbol": "SNDK",
+      "dataset_split": "walk_forward",
+      "profit_factor": 1.5519978495215292,
+      "total_pnl": 3376.5118639791153,
+      "initial_capital": 10000
+    }
+  }
+}

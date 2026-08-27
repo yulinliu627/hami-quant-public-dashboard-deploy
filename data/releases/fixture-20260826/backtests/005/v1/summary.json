@@ -1,0 +1,7 @@
+{
+  "metadata": { "schema_version": 1, "artifact_type": "backtest_summary", "instrument": "SNDK", "venue": "us_market", "experiment_id": "005", "strategy_version": "v1", "release_id": "fixture-20260826", "data_available_at_utc": "2026-08-25T20:00:00Z", "generated_at_utc": "2026-08-26T11:59:00Z" },
+  "payload": {
+    "experiment": { "experiment_id": "005", "name": "Premarket Gap Capture", "conclusion": "A historical research result. It is not a recommendation or a live trading signal.", "status": "active_research" },
+    "summary": { "symbol": "SNDK", "total_trades": 88, "total_return": 0.341, "profit_factor": 1.56, "max_drawdown_percent": -0.086 }
+  }
+}

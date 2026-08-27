@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "schema_version": 1,
+    "artifact_type": "backtest_charts",
+    "instrument": "SNDK",
+    "venue": "us_market",
+    "experiment_id": "005",
+    "strategy_version": "v1",
+    "release_id": "candidate-20260827-no-research",
+    "data_available_at_utc": "2026-08-18T19:55:00+00:00",
+    "generated_at_utc": "2026-08-27T10:14:19.672347+00:00"
+  },
+  "payload": {
+    "pnl_distribution": {
+      "measure": "pnl",
+      "bins": [
+        {
+          "start": -650.0453492550001,
+          "end": -524.0175932361112,
+          "count": 1
+        },
+        {
+          "start": -524.0175932361112,
+          "end": -397.9898372172223,
+          "count": 3
+        },
+        {
+          "start": -397.9898372172223,
+          "end": -271.96208119833346,
+          "count": 2
+        },
+        {
+          "start": -271.96208119833346,
+          "end": -145.93432517944456,
+          "count": 11
+        },
+        {
+          "start": -145.93432517944456,
+          "end": -19.906569160555705,
+          "count": 16
+        },
+        {
+          "start": -19.906569160555705,
+          "end": 106.1211868583332,
+          "count": 21
+        },
+        {
+          "start": 106.1211868583332,
+          "end": 232.1489428772221,
+          "count": 20
+        },
+        {
+          "start": 232.1489428772221,
+          "end": 358.176698896111,
+          "count": 8
+        },
+        {
+          "start": 358.176698896111,
+          "end": 484.20445491499987,
+          "count": 6
+        }
+      ]
+    },
+    "walk_forward": [
+      {
+        "period": "train",
+        "start": "2026-04-07T08:00:00+00:00",
+        "end": "2026-06-26T10:21:00+00:00",
+        "total_trades": 53,
+        "win_rate": 0.6415094339622641,
+        "total_pnl": 2339.461771385008,
+        "total_return": 0.2339461771385008,
+        "profit_factor": 1.8983507506823323,
+        "max_drawdown_percent": -0.05767430875224866
+      },
+      {
+        "period": "validation",
+        "start": "2026-06-26T10:21:00+00:00",
+        "end": "2026-07-23T03:08:00+00:00",
+        "total_trades": 17,
+        "win_rate": 0.6470588235294118,
+        "total_pnl": 1182.332491962004,
+        "total_return": 0.1182332491962004,
+        "profit_factor": 1.9682548837177776,
+        "max_drawdown_percent": -0.04597391225953626
+      },
+      {
+        "period": "test",
+        "start": "2026-07-23T03:08:00+00:00",
+        "end": "2026-08-18T19:55:00+00:00",
+        "total_trades": 18,
+        "win_rate": 0.5,
+        "total_pnl": -114.46480016939887,
+        "total_return": -0.011446480016939887,
+        "profit_factor": 0.9481005301495695,
+        "max_drawdown_percent": -0.11662909609591234
+      }
+    ]
+  }
+}
