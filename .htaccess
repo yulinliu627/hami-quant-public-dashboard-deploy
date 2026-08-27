@@ -3,3 +3,14 @@
     Header always set Cache-Control "no-store, max-age=0, must-revalidate"
   </FilesMatch>
 </IfModule>
+
+# Cloudways Hybrid Stack SPA fallback. Real files and directories (including
+# Vite assets and immutable public snapshots) are served normally; all other
+# paths are handed to React BrowserRouter without changing the visible URL.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+  RewriteRule ^ index.html [L]
+</IfModule>
