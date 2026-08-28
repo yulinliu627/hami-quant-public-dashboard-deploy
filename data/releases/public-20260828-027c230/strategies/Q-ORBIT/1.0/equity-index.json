@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "schema_version": 2,
+    "artifact_type": "strategy_equity_index",
+    "public_strategy_id": "Q-ORBIT",
+    "public_strategy_version": "1.0",
+    "release_id": "public-20260828-027c230",
+    "data_available_at_utc": "2026-08-24T18:25:00Z",
+    "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+  },
+  "payload": {
+    "records": [
+      {
+        "trade_index": 1,
+        "equity_index": 101.82513072104643
+      },
+      {
+        "trade_index": 2,
+        "equity_index": 95.91337301458182
+      },
+      {
+        "trade_index": 3,
+        "equity_index": 97.5837615751123
+      },
+      {
+        "trade_index": 4,
+        "equity_index": 97.83432463618324
+      },
+      {
+        "trade_index": 5,
+        "equity_index": 95.87464007469589
+      },
+      {
+        "trade_index": 6,
+        "equity_index": 95.91953561057579
+      },
+      {
+        "trade_index": 7,
+        "equity_index": 94.48269397687795
+      },
+      {
+        "trade_index": 8,
+        "equity_index": 92.31930033787566
+      },
+      {
+        "trade_index": 9,
+        "equity_index": 89.31317789213959
+      },
+      {
+        "trade_index": 10,
+        "equity_index": 89.55906235428597
+      },
+      {
+        "trade_index": 11,
+        "equity_index": 89.91835263879575
+      },
+      {
+        "trade_index": 12,
+        "equity_index": 91.4326538665808
+      },
+      {
+        "trade_index": 13,
+        "equity_index": 91.95980739347489
+      },
+      {
+        "trade_index": 14,
+        "equity_index": 93.39939442874132
+      },
+      {
+        "trade_index": 15,
+        "equity_index": 96.2636178788613
+      },
+      {
+        "trade_index": 16,
+        "equity_index": 98.17611188200632
+      },
+      {
+        "trade_index": 17,
+        "equity_index": 100.47287474563906
+      },
+      {
+        "trade_index": 18,
+        "equity_index": 98.06478147599891
+      },
+      {
+        "trade_index": 19,
+        "equity_index": 97.21093283375272
+      },
+      {
+        "trade_index": 20,
+        "equity_index": 94.16501253511122
+      },
+      {
+        "trade_index": 21,
+        "equity_index": 90.41886341342939
+      },
+      {
+        "trade_index": 22,
+        "equity_index": 91.76280631744812
+      },
+      {
+        "trade_index": 23,
+        "equity_index": 94.62334123758767
+      },
+      {
+        "trade_index": 24,
+        "equity_index": 95.3212414220977
+      },
+      {
+        "trade_index": 25,
+        "equity_index": 95.40412778376644
+      },
+      {
+        "trade_index": 26,
+        "equity_index": 95.05907804235628
+      },
+      {
+        "trade_index": 27,
+        "equity_index": 96.79551993816185
+      },
+      {
+        "trade_index": 28,
+        "equity_index": 100.34025250255874
+      },
+      {
+        "trade_index": 29,
+        "equity_index": 97.96364833625489
+      },
+      {
+        "trade_index": 30,
+        "equity_index": 100.20355563875738
+      },
+      {
+        "trade_index": 31,
+        "equity_index": 102.41722975334015
+      },
+      {
+        "trade_index": 32,
+        "equity_index": 100.30353359971012
+      },
+      {
+        "trade_index": 33,
+        "equity_index": 101.17382033353589
+      },
+      {
+        "trade_index": 34,
+        "equity_index": 103.34466375518791
+      },
+      {
+        "trade_index": 35,
+        "equity_index": 105.16423784666398
+      },
+      {
+        "trade_index": 36,
+        "equity_index": 102.36202072183526
+      },
+      {
+        "trade_index": 37,
+        "equity_index": 103.5710993428991
+      },
+      {
+        "trade_index": 38,
+        "equity_index": 103.03887851917612
+      },
+      {
+        "trade_index": 39,
+        "equity_index": 101.80864575481434
+      },
+      {
+        "trade_index": 40,
+        "equity_index": 104.32935196396771
+      },
+      {
+        "trade_index": 41,
+        "equity_index": 106.60711018118263
+      },
+      {
+        "trade_index": 42,
+        "equity_index": 110.01102630219847
+      },
+      {
+        "trade_index": 43,
+        "equity_index": 110.56623139906718
+      },
+      {
+        "trade_index": 44,
+        "equity_index": 109.66322158485384
+      },
+      {
+        "trade_index": 45,
+        "equity_index": 107.54629326822337
+      },
+      {
+        "trade_index": 46,
+        "equity_index": 108.20328579224218
+      },
+      {
+        "trade_index": 47,
+        "equity_index": 108.8432904547001
+      },
+      {
+        "trade_index": 48,
+        "equity_index": 109.29941646214931
+      },
+      {
+        "trade_index": 49,
+        "equity_index": 110.62629320978536
+      },
+      {
+        "trade_index": 50,
+        "equity_index": 115.6364453190843
+      },
+      {
+        "trade_index": 51,
+        "equity_index": 114.63148779563798
+      },
+      {
+        "trade_index": 52,
+        "equity_index": 119.39521137407054
+      },
+      {
+        "trade_index": 53,
+        "equity_index": 123.41845173737845
+      },
+      {
+        "trade_index": 54,
+        "equity_index": 121.52143813451661
+      },
+      {
+        "trade_index": 55,
+        "equity_index": 122.6757764424987
+      },
+      {
+        "trade_index": 56,
+        "equity_index": 128.2173386628139
+      },
+      {
+        "trade_index": 57,
+        "equity_index": 122.60937388701616
+      },
+      {
+        "trade_index": 58,
+        "equity_index": 121.58903180945244
+      },
+      {
+        "trade_index": 59,
+        "equity_index": 125.06246869192428
+      },
+      {
+        "trade_index": 60,
+        "equity_index": 124.16828280050447
+      },
+      {
+        "trade_index": 61,
+        "equity_index": 129.01121399706997
+      },
+      {
+        "trade_index": 62,
+        "equity_index": 131.0443652348106
+      },
+      {
+        "trade_index": 63,
+        "equity_index": 129.9637755757424
+      },
+      {
+        "trade_index": 64,
+        "equity_index": 135.81664134470205
+      },
+      {
+        "trade_index": 65,
+        "equity_index": 131.51652349275312
+      },
+      {
+        "trade_index": 66,
+        "equity_index": 133.04686218890868
+      },
+      {
+        "trade_index": 67,
+        "equity_index": 128.13097715794615
+      },
+      {
+        "trade_index": 68,
+        "equity_index": 131.29562107164088
+      },
+      {
+        "trade_index": 69,
+        "equity_index": 133.2559812600275
+      },
+      {
+        "trade_index": 70,
+        "equity_index": 135.3198407794801
+      },
+      {
+        "trade_index": 71,
+        "equity_index": 137.347406194341
+      },
+      {
+        "trade_index": 72,
+        "equity_index": 133.66731576868568
+      },
+      {
+        "trade_index": 73,
+        "equity_index": 137.61139864276885
+      },
+      {
+        "trade_index": 74,
+        "equity_index": 129.8247549634197
+      },
+      {
+        "trade_index": 75,
+        "equity_index": 113.25925440412188
+      },
+      {
+        "trade_index": 76,
+        "equity_index": 117.58898631157824
+      },
+      {
+        "trade_index": 77,
+        "equity_index": 110.37675185905869
+      },
+      {
+        "trade_index": 78,
+        "equity_index": 113.79505297823616
+      },
+      {
+        "trade_index": 79,
+        "equity_index": 110.30835035605318
+      },
+      {
+        "trade_index": 80,
+        "equity_index": 115.40730526679693
+      },
+      {
+        "trade_index": 81,
+        "equity_index": 117.57164213348123
+      },
+      {
+        "trade_index": 82,
+        "equity_index": 115.39935444188367
+      },
+      {
+        "trade_index": 83,
+        "equity_index": 116.1221851296049
+      },
+      {
+        "trade_index": 84,
+        "equity_index": 120.20594566633753
+      },
+      {
+        "trade_index": 85,
+        "equity_index": 119.45834675337261
+      },
+      {
+        "trade_index": 86,
+        "equity_index": 125.80455129298798
+      },
+      {
+        "trade_index": 87,
+        "equity_index": 122.85877306750288
+      },
+      {
+        "trade_index": 88,
+        "equity_index": 125.31251401001833
+      },
+      {
+        "trade_index": 89,
+        "equity_index": 126.25534163409837
+      },
+      {
+        "trade_index": 90,
+        "equity_index": 122.83989887810006
+      },
+      {
+        "trade_index": 91,
+        "equity_index": 122.0032372203635
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "schema_version": 2,
+    "artifact_type": "strategy_backtest",
+    "public_strategy_id": "Q-ORBIT",
+    "public_strategy_version": "1.0",
+    "release_id": "public-20260828-027c230",
+    "data_available_at_utc": "2026-08-24T18:25:00Z",
+    "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+  },
+  "payload": {
+    "evidence": {
+      "period_start_utc": "2026-04-07T13:40:00Z",
+      "period_end_utc": "2026-08-24T18:25:00Z",
+      "completed_observations": 91,
+      "normalized_total_return": 0.28746918688294193,
+      "win_rate": 0.6153846153846154,
+      "profit_factor": 1.4771321961362314,
+      "max_drawdown_percent": -0.0833191264711001
+    }
+  }
+}

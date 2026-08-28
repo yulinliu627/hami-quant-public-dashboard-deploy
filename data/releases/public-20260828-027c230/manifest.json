@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "release_id": "public-20260828-027c230",
+  "data_available_at_utc": "2026-08-24T18:25:00Z",
+  "generated_at_utc": "2026-08-28T05:56:49.887117Z",
+  "display_timezone": "Asia/Taipei",
+  "artifacts": [
+    {
+      "path": "strategies/index.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_index",
+        "public_strategy_id": null,
+        "public_strategy_version": null,
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": null,
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/strategy.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/backtest.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_backtest",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/equity-index.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_equity_index",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/drawdown.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_drawdown",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/return-distribution.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_return_distribution",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/walk-forward.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_walk_forward",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/held-out-test.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_held_out_test",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/forward-validation.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_forward_validation",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/monthly-returns.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_monthly_returns",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    },
+    {
+      "path": "strategies/Q-ORBIT/1.0/timeline.json",
+      "metadata": {
+        "schema_version": 2,
+        "artifact_type": "strategy_timeline",
+        "public_strategy_id": "Q-ORBIT",
+        "public_strategy_version": "1.0",
+        "release_id": "public-20260828-027c230",
+        "data_available_at_utc": "2026-08-24T18:25:00Z",
+        "generated_at_utc": "2026-08-28T05:56:49.887117Z"
+      }
+    }
+  ]
+}
