@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "schema_version": 2,
+    "artifact_type": "strategy_timeline",
+    "public_strategy_id": "Q-ORBIT",
+    "public_strategy_version": "1.0",
+    "release_id": "public-20260828-f9584b559e0a",
+    "data_available_at_utc": "2026-08-24T18:25:00Z",
+    "generated_at_utc": "2026-08-28T15:01:51.709047Z"
+  },
+  "payload": {
+    "events": []
+  }
+}

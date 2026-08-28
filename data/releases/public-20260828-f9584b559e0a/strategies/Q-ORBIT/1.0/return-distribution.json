@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "schema_version": 2,
+    "artifact_type": "strategy_return_distribution",
+    "public_strategy_id": "Q-ORBIT",
+    "public_strategy_version": "1.0",
+    "release_id": "public-20260828-f9584b559e0a",
+    "data_available_at_utc": "2026-08-24T18:25:00Z",
+    "generated_at_utc": "2026-08-28T15:01:51.709047Z"
+  },
+  "payload": {
+    "measure": "return_percent",
+    "bins": [
+      {
+        "start_return_percent": -12.759893568807785,
+        "end_return_percent": -11.253862175777925,
+        "count": 1
+      },
+      {
+        "start_return_percent": -11.253862175777925,
+        "end_return_percent": -9.747830782748068,
+        "count": 0
+      },
+      {
+        "start_return_percent": -9.747830782748068,
+        "end_return_percent": -8.24179938971821,
+        "count": 0
+      },
+      {
+        "start_return_percent": -8.24179938971821,
+        "end_return_percent": -6.735767996688351,
+        "count": 0
+      },
+      {
+        "start_return_percent": -6.735767996688351,
+        "end_return_percent": -5.229736603658492,
+        "count": 3
+      },
+      {
+        "start_return_percent": -5.229736603658492,
+        "end_return_percent": -3.7237052106286335,
+        "count": 2
+      },
+      {
+        "start_return_percent": -3.7237052106286335,
+        "end_return_percent": -2.217673817598774,
+        "count": 12
+      },
+      {
+        "start_return_percent": -2.217673817598774,
+        "end_return_percent": -0.7116424245689164,
+        "count": 13
+      },
+      {
+        "start_return_percent": -0.7116424245689164,
+        "end_return_percent": 0.7943889684609413,
+        "count": 17
+      },
+      {
+        "start_return_percent": 0.7943889684609413,
+        "end_return_percent": 2.3004203614908008,
+        "count": 23
+      },
+      {
+        "start_return_percent": 2.3004203614908008,
+        "end_return_percent": 3.80645175452066,
+        "count": 12
+      },
+      {
+        "start_return_percent": 3.80645175452066,
+        "end_return_percent": 5.312483147550517,
+        "count": 8
+      }
+    ]
+  }
+}

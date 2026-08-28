@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "schema_version": 2,
+    "artifact_type": "strategy",
+    "public_strategy_id": "Q-ORBIT",
+    "public_strategy_version": "1.0",
+    "release_id": "public-20260828-f9584b559e0a",
+    "data_available_at_utc": "2026-08-24T18:25:00Z",
+    "generated_at_utc": "2026-08-28T15:01:51.709047Z"
+  },
+  "payload": {
+    "strategy": {
+      "public_strategy_id": "Q-ORBIT",
+      "public_strategy_version": "1.0",
+      "display_name": "Systematic Quantitative Strategy",
+      "short_description": "A systematic strategy undergoing historical, held-out, and forward validation. Public evidence focuses on performance and risk rather than trading rules.\n",
+      "asset_class": "Equity-linked Perpetual",
+      "strategy_category": "Systematic Market Strategy",
+      "venue_label": "Digital Asset Market",
+      "instrument_label": null,
+      "overall_status": "FORWARD_VALIDATION",
+      "stages": {
+        "historical_backtest": "COMPLETED",
+        "walk_forward": "INCONCLUSIVE",
+        "held_out_test": "INCONCLUSIVE",
+        "forward_validation": "IN_PROGRESS"
+      },
+      "frozen_at_utc": null,
+      "forward_validation_started_at_utc": null,
+      "summary": {
+        "historical_normalized_total_return": 0.28746918688294193,
+        "historical_completed_trades": 91,
+        "historical_max_drawdown_percent": -0.0833191264711001,
+        "forward_completed_observations": 4,
+        "forward_days_running": 0
+      }
+    }
+  }
+}
