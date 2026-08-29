@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "schema_version": 2,
+    "artifact_type": "strategy_drawdown",
+    "public_strategy_id": "Q-ORBIT",
+    "public_strategy_version": "1.0",
+    "release_id": "public-20260829-121305-c2a3b0e3bec8",
+    "data_available_at_utc": "2026-08-24T18:25:00Z",
+    "generated_at_utc": "2026-08-29T12:13:50.972517Z"
+  },
+  "payload": {
+    "records": [
+      {
+        "trade_index": 1,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 2,
+        "drawdown_percent": -0.022285010948050354
+      },
+      {
+        "trade_index": 3,
+        "drawdown_percent": -0.014872665367579252
+      },
+      {
+        "trade_index": 4,
+        "drawdown_percent": -0.013771243152817636
+      },
+      {
+        "trade_index": 5,
+        "drawdown_percent": -0.023558425741352362
+      },
+      {
+        "trade_index": 6,
+        "drawdown_percent": -0.023341766872860492
+      },
+      {
+        "trade_index": 7,
+        "drawdown_percent": -0.03010312848595731
+      },
+      {
+        "trade_index": 8,
+        "drawdown_percent": -0.04035466562052259
+      },
+      {
+        "trade_index": 9,
+        "drawdown_percent": -0.05496007266406999
+      },
+      {
+        "trade_index": 10,
+        "drawdown_percent": -0.05369698576495663
+      },
+      {
+        "trade_index": 11,
+        "drawdown_percent": -0.05186888204787188
+      },
+      {
+        "trade_index": 12,
+        "drawdown_percent": -0.04379086184178038
+      },
+      {
+        "trade_index": 13,
+        "drawdown_percent": -0.04107855042255204
+      },
+      {
+        "trade_index": 14,
+        "drawdown_percent": -0.03326772694815383
+      },
+      {
+        "trade_index": 15,
+        "drawdown_percent": -0.01707894215148087
+      },
+      {
+        "trade_index": 16,
+        "drawdown_percent": -0.006728803334725253
+      },
+      {
+        "trade_index": 17,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 18,
+        "drawdown_percent": -0.01226776099889848
+      },
+      {
+        "trade_index": 19,
+        "drawdown_percent": -0.01756331511337239
+      },
+      {
+        "trade_index": 20,
+        "drawdown_percent": -0.03693739638854732
+      },
+      {
+        "trade_index": 21,
+        "drawdown_percent": -0.06630948950404558
+      },
+      {
+        "trade_index": 22,
+        "drawdown_percent": -0.05601826066794613
+      },
+      {
+        "trade_index": 23,
+        "drawdown_percent": -0.035236830261691665
+      },
+      {
+        "trade_index": 24,
+        "drawdown_percent": -0.029503197362162115
+      },
+      {
+        "trade_index": 25,
+        "drawdown_percent": -0.028861719183798984
+      },
+      {
+        "trade_index": 26,
+        "drawdown_percent": -0.03156544336482281
+      },
+      {
+        "trade_index": 27,
+        "drawdown_percent": -0.018728054962466878
+      },
+      {
+        "trade_index": 28,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 29,
+        "drawdown_percent": -0.016273937609044054
+      },
+      {
+        "trade_index": 30,
+        "drawdown_percent": -0.001405874848807831
+      },
+      {
+        "trade_index": 31,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 32,
+        "drawdown_percent": -0.014041061584543435
+      },
+      {
+        "trade_index": 33,
+        "drawdown_percent": -0.0075913946528579634
+      },
+      {
+        "trade_index": 34,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 35,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 36,
+        "drawdown_percent": -0.019606565299404854
+      },
+      {
+        "trade_index": 37,
+        "drawdown_percent": -0.010311231305473845
+      },
+      {
+        "trade_index": 38,
+        "drawdown_percent": -0.014545168221811178
+      },
+      {
+        "trade_index": 39,
+        "drawdown_percent": -0.024340295078092877
+      },
+      {
+        "trade_index": 40,
+        "drawdown_percent": -0.003379164494415998
+      },
+      {
+        "trade_index": 41,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 42,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 43,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 44,
+        "drawdown_percent": -0.0059919218490644965
+      },
+      {
+        "trade_index": 45,
+        "drawdown_percent": -0.020970297347769673
+      },
+      {
+        "trade_index": 46,
+        "drawdown_percent": -0.015178651716970637
+      },
+      {
+        "trade_index": 47,
+        "drawdown_percent": -0.009653503906591587
+      },
+      {
+        "trade_index": 48,
+        "drawdown_percent": -0.005773798048437584
+      },
+      {
+        "trade_index": 49,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 50,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 51,
+        "drawdown_percent": -0.007529361959678349
+      },
+      {
+        "trade_index": 52,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 53,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 54,
+        "drawdown_percent": -0.013265403720221003
+      },
+      {
+        "trade_index": 55,
+        "drawdown_percent": -0.00520397999659572
+      },
+      {
+        "trade_index": 56,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 57,
+        "drawdown_percent": -0.03371762220989172
+      },
+      {
+        "trade_index": 58,
+        "drawdown_percent": -0.03973596490049447
+      },
+      {
+        "trade_index": 59,
+        "drawdown_percent": -0.02098157750851093
+      },
+      {
+        "trade_index": 60,
+        "drawdown_percent": -0.025426538886332173
+      },
+      {
+        "trade_index": 61,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 62,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 63,
+        "drawdown_percent": -0.005695592796722049
+      },
+      {
+        "trade_index": 64,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 65,
+        "drawdown_percent": -0.021287225286981792
+      },
+      {
+        "trade_index": 66,
+        "drawdown_percent": -0.014462016597318494
+      },
+      {
+        "trade_index": 67,
+        "drawdown_percent": -0.032919110403106355
+      },
+      {
+        "trade_index": 68,
+        "drawdown_percent": -0.020063796401861955
+      },
+      {
+        "trade_index": 69,
+        "drawdown_percent": -0.0116467108437317
+      },
+      {
+        "trade_index": 70,
+        "drawdown_percent": -0.0025352752527718625
+      },
+      {
+        "trade_index": 71,
+        "drawdown_percent": 0.0
+      },
+      {
+        "trade_index": 72,
+        "drawdown_percent": -0.015129977822004093
+      },
+      {
+        "trade_index": 73,
+        "drawdown_percent": -0.001685112431238589
+      },
+      {
+        "trade_index": 74,
+        "drawdown_percent": -0.024319555501868484
+      },
+      {
+        "trade_index": 75,
+        "drawdown_percent": -0.07262921889199714
+      },
+      {
+        "trade_index": 76,
+        "drawdown_percent": -0.053447904170829785
+      },
+      {
+        "trade_index": 77,
+        "drawdown_percent": -0.08200041880272446
+      },
+      {
+        "trade_index": 78,
+        "drawdown_percent": -0.06666207760629739
+      },
+      {
+        "trade_index": 79,
+        "drawdown_percent": -0.08331912647110007
+      },
+      {
+        "trade_index": 80,
+        "drawdown_percent": -0.061838346648583786
+      },
+      {
+        "trade_index": 81,
+        "drawdown_percent": -0.05276647239234611
+      },
+      {
+        "trade_index": 82,
+        "drawdown_percent": -0.06130496568026522
+      },
+      {
+        "trade_index": 83,
+        "drawdown_percent": -0.05835447510618064
+      },
+      {
+        "trade_index": 84,
+        "drawdown_percent": -0.041009431948042185
+      },
+      {
+        "trade_index": 85,
+        "drawdown_percent": -0.04416784506861471
+      },
+      {
+        "trade_index": 86,
+        "drawdown_percent": -0.01295078396069016
+      },
+      {
+        "trade_index": 87,
+        "drawdown_percent": -0.028294275305300265
+      },
+      {
+        "trade_index": 88,
+        "drawdown_percent": -0.01540316806997477
+      },
+      {
+        "trade_index": 89,
+        "drawdown_percent": -0.010676721456418292
+      },
+      {
+        "trade_index": 90,
+        "drawdown_percent": -0.027075444570409335
+      },
+      {
+        "trade_index": 91,
+        "drawdown_percent": -0.031216156618252833
+      }
+    ]
+  }
+}
