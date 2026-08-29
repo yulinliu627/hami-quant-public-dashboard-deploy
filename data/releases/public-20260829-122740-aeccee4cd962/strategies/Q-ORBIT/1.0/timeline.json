@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "schema_version": 2,
+    "artifact_type": "strategy_timeline",
+    "public_strategy_id": "Q-ORBIT",
+    "public_strategy_version": "1.0",
+    "release_id": "public-20260829-122740-aeccee4cd962",
+    "data_available_at_utc": "2026-08-24T18:25:00Z",
+    "generated_at_utc": "2026-08-29T12:28:47.160338Z"
+  },
+  "payload": {
+    "events": [
+      {
+        "event_type": "STRATEGY_VERSION_FROZEN",
+        "occurred_at_utc": "2026-08-24T18:10:06Z",
+        "status": null
+      },
+      {
+        "event_type": "FORWARD_VALIDATION_STARTED",
+        "occurred_at_utc": "2026-08-24T18:45:33Z",
+        "status": null
+      }
+    ]
+  }
+}

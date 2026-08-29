@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "schema_version": 2,
+    "artifact_type": "strategy_walk_forward",
+    "public_strategy_id": "Q-ORBIT",
+    "public_strategy_version": "1.0",
+    "release_id": "public-20260829-122740-aeccee4cd962",
+    "data_available_at_utc": "2026-08-24T18:25:00Z",
+    "generated_at_utc": "2026-08-29T12:28:47.160338Z"
+  },
+  "payload": {
+    "periods": [
+      {
+        "segment": "train",
+        "evidence": {
+          "period_start_utc": "2026-04-07T13:40:00Z",
+          "period_end_utc": "2026-06-30T02:07:00Z",
+          "completed_observations": 54,
+          "normalized_total_return": 0.21319185933754062,
+          "win_rate": 0.6481481481481481,
+          "profit_factor": 1.8570618444313267,
+          "max_drawdown_percent": -0.06630948950404564
+        }
+      },
+      {
+        "segment": "validation",
+        "evidence": {
+          "period_start_utc": "2026-06-30T02:07:00Z",
+          "period_end_utc": "2026-07-27T22:16:00Z",
+          "completed_observations": 18,
+          "normalized_total_return": 0.09565511958471277,
+          "win_rate": 0.6111111111111112,
+          "profit_factor": 1.7025604786096247,
+          "max_drawdown_percent": -0.047732589820309
+        }
+      }
+    ]
+  }
+}
