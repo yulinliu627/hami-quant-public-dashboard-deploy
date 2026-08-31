@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "schema_version": 2,
+    "artifact_type": "strategy_forward_validation",
+    "public_strategy_id": "Q-ORBIT",
+    "public_strategy_version": "1.0",
+    "release_id": "public-20260831-171805-53c7286bfc6b",
+    "data_available_at_utc": "2026-08-24T18:25:00Z",
+    "generated_at_utc": "2026-08-31T17:18:55.620485Z"
+  },
+  "payload": {
+    "status": "IN_PROGRESS",
+    "forward_validation_started_at_utc": "2026-08-24T18:45:33Z",
+    "days_running": 7,
+    "completed_observations": 5,
+    "minimum_observations_for_ratios": 20,
+    "sample_state": "LIMITED",
+    "normalized_cumulative_return": 0.031485651519156166,
+    "max_drawdown_percent": -0.0023638737806231935,
+    "win_rate": null,
+    "profit_factor": null,
+    "equity_index": [
+      {
+        "observation_index": 1,
+        "equity_index": 101.33236789979296
+      },
+      {
+        "observation_index": 2,
+        "equity_index": 102.34981304144296
+      },
+      {
+        "observation_index": 3,
+        "equity_index": 103.25520150474297
+      },
+      {
+        "observation_index": 4,
+        "equity_index": 103.01111924119294
+      },
+      {
+        "observation_index": 5,
+        "equity_index": 103.14856515191562
+      }
+    ]
+  }
+}
